@@ -9,7 +9,7 @@
 	<a href="data/create"><input type="submit" value="Buat Data"></a>
 
 
-	<h1>Halaman Output</h1>
+	<h1>Halaman Output INI YAAAAAA</h1>
 
 	<table border="1">
 		@forelse($postdata as $key => $post)
@@ -27,9 +27,9 @@
     	<form action="data/{{$post->id}}" method="post">
     	@csrf
     	@method('DELETE')
-    	<input type="submit" value="Delete">	
+    	<input type="submit" value="Delete">
     	</form>
-    	
+
     </td>
   </tr>
   @empty
