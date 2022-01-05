@@ -9,7 +9,7 @@
 	<a href="data/create"><input type="submit" value="Buat Data"></a>
 
 
-	<h1>Halaman Output</h1>
+	<h1>Halaman Output Novanka</h1>
 
 	<table border="1">
 		@forelse($postdata as $key => $post)
