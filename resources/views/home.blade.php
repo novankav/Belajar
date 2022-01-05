@@ -11,7 +11,7 @@
 
 	<h1>Halaman Output Novanka</h1>
     <h1>Halaman Output SAYA</h1>
-    <h1>Halaman Output SAYA YUSUF WIJAYA</h1>
+    <h1>Halaman Output SAYA YUSUF WIJAYA WIJAYA JAJWKAIJDIWB</h1>
 
 	<table border="1">
 		@forelse($postdata as $key => $post)
