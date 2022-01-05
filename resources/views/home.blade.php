@@ -11,11 +11,7 @@
 
 	<h1>Halaman Output Novanka</h1>
     <h1>Halaman Output SAYA</h1>
-<<<<<<< HEAD
-    <h1>Halaman Output SAYA Novanka </h1>
-=======
-    <h1>Halaman Output SAYA YUSUF WIJAYA</h1>
->>>>>>> 563c20d27c31dfc7eaad682b98f0127c21edf123
+    <h1>Halaman Output SAYA vanka </h1>
 
 	<table border="1">
 		@forelse($postdata as $key => $post)
